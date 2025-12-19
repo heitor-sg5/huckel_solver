@@ -21,14 +21,11 @@ Hückel molecular orbitals theory is an approximate quantum mechanical method us
 Assumptions:
 - There are only π-electrons
 - Each atom contributes one p-orbital
-- Only nearest-neighbour orbital interacts
+- Only nearest-neighbour orbitals interact
 - No orbital overlap
 - Two empirical parameters are used:
     - α: atomic orbital energy
     - β: resonance integral between bonded atoms
-
-Hückel Hamiltonian
-The Hamiltonian matrix is defined as:
 
 The Hückel Hamiltonian matrix is defined as:
 
