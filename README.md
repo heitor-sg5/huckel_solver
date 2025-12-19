@@ -18,7 +18,7 @@ This repository contains a Python-based, modular implementation of Hückel molec
 ## Content
 Hückel molecular orbitals theory is an approximate quantum mechanical method used to describe π-electron systems in planar, conjugated molecules.
 
-# Assumptions
+Assumptions:
 - There are only π-electrons
 - Each atom contributes one p-orbital
 - Only nearest-neighbour orbital interacts
@@ -27,7 +27,7 @@ Hückel molecular orbitals theory is an approximate quantum mechanical method us
     - α: atomic orbital energy
     - β: resonance integral between bonded atoms
 
-# Hückel Hamiltonian
+Hückel Hamiltonian
 The Hamiltonian matrix is defined as:
 
 The Hückel Hamiltonian matrix is defined as:
@@ -43,7 +43,7 @@ $$
 
 This converts molecular connectivity into a natrix eigenvalue problem.
 
-# Molecular Orbitals
+Molecular Orbitals
 
 The Schrödinger equation reduces to:
 
