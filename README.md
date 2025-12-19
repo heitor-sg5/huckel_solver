@@ -50,8 +50,8 @@ $$
 
 Solving this yields:
 
-- Eigenvalues, Ek: π-molecular orbital energies
-- Eigenvectors, Ck: atomic orbital coefficients
+- Eigenvalues, $$E_k$$: π-molecular orbital energies
+- Eigenvectors,  $$C_k$$: atomic orbital coefficients
 
 From these, additional chemical properties can be derived.
 
