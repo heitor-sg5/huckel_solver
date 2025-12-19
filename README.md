@@ -38,7 +38,7 @@ H_{ij} =
 \end{cases}
 $$
 
-This converts molecular connectivity into a natrix eigenvalue problem.
+This converts molecular connectivity into a matrix eigenvalue problem.
 
 Molecular Orbitals
 
