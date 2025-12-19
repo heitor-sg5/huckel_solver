@@ -71,6 +71,7 @@ huckel_solver/
 │   ├── benzene.json
 │   └── butadiene.json
 ├── main.py
+├── requirements.txt
 └── README.md
 ```
 
