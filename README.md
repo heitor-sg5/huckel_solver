@@ -40,8 +40,6 @@ $$
 
 This converts molecular connectivity into a matrix eigenvalue problem.
 
-Molecular Orbitals
-
 The Schrödinger equation reduces to:
 
 $$
