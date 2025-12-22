@@ -1,21 +1,13 @@
 # Hückel Molecular Orbital Solver
 
 ## Overview
+
 This repository contains a Python-based, modular implementation of Hückel molecular orbital theory for modelling π-electron systems in conjugated organic molecules. Given a molecular connectivity description, the program constructs the Hückel Hamiltonian matrix, solves the corresponding eigenvalue problem, and computes key molecular orbital properties such as orbital energies, HOMO–LUMO gaps, total π-electron energy, and electron density distributions. This project serves as a practical implementation of Hückel theory.
 
 ---
 
-## Table of Contents:
-- [Overview](#differential-expression-analysis)
-- [Content](#content)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Input](#input)
-
----
-
 ## Content
+
 Hückel molecular orbitals theory is an approximate quantum mechanical method used to describe π-electron systems in planar, conjugated molecules.
 
 Assumptions:
@@ -98,6 +90,7 @@ pip install -r requirements.txt
 ---
 
 ## Usage
+
 Run the program from the project root:
 
 ```bash
