@@ -50,7 +50,6 @@ From these, additional chemical properties can be derived.
 ## Project Structure
 
 ```
-huckel_solver/
 ├── huckel/
 │   ├── __init__.py
 │   ├── parser.py
